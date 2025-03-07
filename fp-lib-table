@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TJA1044T")(type "KiCad")(uri "${KIPRJMOD}/footprints/TJA1044T.pretty")(options "")(descr ""))
+  (lib (name "TPT485E-SO1R")(type "KiCad")(uri "${KIPRJMOD}/footprints/TPT485E-SO1R.pretty")(options "")(descr ""))
+  (lib (name "STM32G0B1CBT6")(type "KiCad")(uri "${KIPRJMOD}/footprints/STM32G0B1CBT6.pretty")(options "")(descr ""))
+  (lib (name "TLV75733PDRVR")(type "KiCad")(uri "${KIPRJMOD}/footprints/TLV75733PDRVR.pretty")(options "")(descr ""))
+)
